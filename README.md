@@ -3,7 +3,7 @@
 # 🛡️ HardenKit
 
 [![Version](https://img.shields.io/badge/version-3.0.0-blue?style=flat-square)](https://github.com/Grujowmi/HardenKit/releases)
-[![License: MIT](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
+[![License: GPL v3](https://img.shields.io/badge/License-AGPL_v3%2B-blue)](https://www.gnu.org/licenses/agpl-3.0.fr.html)(LICENSE)
 [![Shell](https://img.shields.io/badge/shell-bash-89e051?style=flat-square&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![CIS](https://img.shields.io/badge/CIS-Benchmarks-orange?style=flat-square)](https://www.cisecurity.org/)
 [![ANSSI](https://img.shields.io/badge/ANSSI-R41%2B-blue?style=flat-square)](https://www.ssi.gouv.fr/)
@@ -326,7 +326,7 @@ applied() # or skipped() — track the result
 
 <div align="center">
 
-**MIT License — © [Grujowmi](https://github.com/Grujowmi)**
+**AGLP-3.0 — © [Grujowmi](https://github.com/Grujowmi)**
 
 *Made with 🛡️ for sysadmins who want security without surprises.*
 
